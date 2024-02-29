@@ -20,7 +20,7 @@ This TILT extension for the Camunda BPMN modeler currently supports Camunda Plat
 
 ### Installation steps
 
-1. Download the latest **tilt-release.zip** file from the releases page: https://github.com/ciphersmaug/tilt-camunda-plugin/releases/
+1. Download the latest **tilt-release.zip** file from the releases page: https://github.com/PrivacyEngineering/bpm-transparency-plug-in/releases
 
 2. Copy or link the extracted folder into your Camunda Modeler plug-in directory
     
